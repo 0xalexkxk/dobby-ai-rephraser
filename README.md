@@ -1,5 +1,4 @@
 Dobby AI Rephraser
-
 <p align="center">
   <img src="dobby_logo.png" alt="Dobby Logo" width="120">
 </p>
