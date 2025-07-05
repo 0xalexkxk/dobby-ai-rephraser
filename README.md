@@ -19,7 +19,7 @@ This little tool helps you rewrite text in different styles:
 - **Supportive** - Encouraging and uplifting tone
 - **Unhinged** - When you want to be... well, completely unfiltered
 
-The best part? It works with any app. Writing in Discord, Word, your browser, whatever - just select text and hit F2.
+The best part? It works with any app. Writing in Discord, Word, your browser, whatever - just select text and hit **F2**.
 
 ## How to get it
 
