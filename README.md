@@ -124,7 +124,7 @@ MIT License - basically, do whatever you want with this code.
 
 ## Credits
 
-- Uses [Fireworks AI](https://fireworks.ai/) for the text processing
+- Uses [Fireworks AI](https://fireworks.ai/) for the text processing (1$ CREDIT FREE, its more than enough)
 - Built with PyQt6 for the interface
 
 ## Troubleshooting
