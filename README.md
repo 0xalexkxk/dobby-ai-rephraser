@@ -58,7 +58,6 @@ That's it. The key gets saved on your computer and you won't need to do this aga
 Don't worry about security - your key stays local, nothing gets stored or tracked.
 
 ## How to use it
-![image](https://github.com/user-attachments/assets/cfe450e6-3f7c-44a5-a957-238403261527)
 
 1. Highlight some text anywhere on your computer
 2. Press F2
