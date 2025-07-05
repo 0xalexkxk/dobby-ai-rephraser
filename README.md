@@ -1,8 +1,7 @@
-Dobby AI Rephraser
 <p align="center">
   <img src="dobby_logo.png" alt="Dobby Logo" width="120">
 </p>
-
+Dobby AI Rephraser
 Ever wanted to quickly change the tone of your text? Maybe make an angry message sound friendlier, or turn a casual note into something more professional? That's exactly what Dobby does.
 
 Just highlight any text anywhere on your computer, press F2, pick a style, and boom - your text is rewritten in seconds.
