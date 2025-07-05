@@ -1,0 +1,51 @@
+=====================================
+DOBBY AI REPHRASER - QUICK START GUIDE
+=====================================
+
+FOR USERS (EASY MODE):
+----------------------
+1. Download DobbyAI-Rephraser.exe from GitHub Releases
+2. Run it
+3. Enter your Fireworks AI API key when prompted
+4. Start using it with F2!
+
+FOR DEVELOPERS:
+---------------
+1. Clone the repository
+2. Install requirements: pip install -r requirements.txt
+3. Run: python dobby_qt.py
+
+TO BUILD EXE:
+-------------
+1. Run: build.bat
+   OR
+2. Run: python build_exe.py
+
+GETTING API KEY:
+----------------
+1. Go to https://fireworks.ai/
+2. Sign up or login
+3. Go to API Keys section
+4. Create new API key
+5. Copy it (starts with fw_)
+
+HOW TO USE:
+-----------
+1. Select any text anywhere
+2. Press F2
+3. Choose a style
+4. Click Generate Text
+5. Use Copy or Paste buttons
+
+KEYBOARD SHORTCUTS:
+-------------------
+F2 - Open rephraser
+ESC - Close window
+Alt+F4 - Exit app
+
+NEED HELP?
+----------
+Check README.md for detailed instructions
+Create an issue on GitHub if you have problems
+
+=====================================
