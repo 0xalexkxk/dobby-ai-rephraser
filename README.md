@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/47b1a375-4227-4f07-a95f-758c0e77e13b)# Dobby AI Rephraser
+Dobby AI Rephraser
 
 <p align="center">
   <img src="dobby_logo.png" alt="Dobby Logo" width="120">
@@ -58,6 +58,7 @@ That's it. The key gets saved on your computer and you won't need to do this aga
 Don't worry about security - your key stays local, nothing gets stored or tracked.
 
 ## How to use it
+![image](https://github.com/user-attachments/assets/47b1a375-4227-4f07-a95f-758c0e77e13b)
 
 1. Highlight some text anywhere on your computer
 2. Press F2
